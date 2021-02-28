@@ -1,0 +1,60 @@
+body {
+	background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+
+.first-buttons {
+	display: flex;
+}
+
+.all {
+	width:100%;
+	font-size: 200%;
+	background-color: rgb(220, 20, 60);
+	border: 0;
+	color: rgba(255, 255, 255, .9);
+	margin-bottom: .1%;
+	border-radius: 20px;
+}
+
+.man {
+	width: 49.9%;
+	font-size: 150%;
+	background-color: rgb(0, 0, 205);
+	color: rgba(255, 255, 255, .9);
+	margin-right: 0.2%;
+	border:0;
+	border-radius: 15px;
+}
+.female {
+	width: 49.9%;
+	font-size: 150%;
+	background-color: rgb(199, 21, 133);
+	color: rgba(255, 255, 255, .9);
+	border:0;
+	border-radius: 15px;
+}
+.kids {
+	width:100%;
+	font-size: 200%;
+	background-color: rgb(255, 140, 0);
+	border: 0;
+	color: rgba(255, 255, 255, .9);
+	margin-top: .1%;
+	border-radius: 20px;
+}
+
+.section {
+	width: 100%;
+}
+.card {
+	background-color: rgb(205, 92, 92);
+	display: inline-table;
+	height: 40vh;
+	width: 21%;
+	padding: 0 4% 0;
+  	margin: 2%;
+  	text-align:center;
+}
